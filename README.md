@@ -1,6 +1,6 @@
 # Quicklo
 
-Welcome to **Quicklo** – a fast and responsive e-commerce platform currently in development. Our goal is to create a seamless shopping experience, focusing on speed, user-friendly design, and smooth navigation.
+Welcome to **Quicklo** – a fast and responsive e-commerce platform currently in development. Our goal is to create a seamless shopping experience, focusing on speed.
 
 ## About the Project
 
